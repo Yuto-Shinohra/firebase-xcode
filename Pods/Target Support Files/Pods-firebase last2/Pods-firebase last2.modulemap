@@ -1,0 +1,6 @@
+framework module Pods_firebase_last2 {
+  umbrella header "Pods-firebase last2-umbrella.h"
+
+  export *
+  module * { export * }
+}
